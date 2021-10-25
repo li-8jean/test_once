@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(236, 235, 149);
+    font-size: 18px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
